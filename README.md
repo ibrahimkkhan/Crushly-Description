@@ -38,7 +38,7 @@ The user can swipe left to view their conversations. The user can only message t
 - Users that have a Crush on user (Secret Crush included)
 - Users that the user has a Crush on (Secret Crush included)
 
-![Screen Shot 2021-08-16 at 10 04 30 PM](https://user-images.githubusercontent.com/44535434/129652580-5173e4dc-0e68-40b5-8506-b12724e926ae.png)
+![Screen Shot 2021-08-16 at 10 08 53 PM](https://user-images.githubusercontent.com/44535434/129653620-becc2a23-cbd6-469c-92fc-0120b4e970e6.png)
 *Conversations with secretly crushed users in anonymous, i.e, all publically viewable credentials and the profile picture are hidden.* 
 
 - #### Report and Block
