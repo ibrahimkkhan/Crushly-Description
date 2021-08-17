@@ -21,6 +21,7 @@ After successfully authenticating, the user is directed to Crushly's landing pag
 - **Search:** Search for any user
 - **View Profile:** The user can double to view the recommended user's profile. The profile will showcase pictures and the recommended user's *Crush Count*
 Finally, the user can choose to swipe up or down to keep viewing new recommendations or come back to the old ones.
+
 ![Screen Shot 2021-08-16 at 9 59 19 PM](https://user-images.githubusercontent.com/44535434/129652179-bff8e696-9aeb-49b2-aaab-c271c94f8796.png)
 
 #### Messaging
