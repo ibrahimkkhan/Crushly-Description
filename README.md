@@ -24,8 +24,9 @@ Finally, the user can choose to swipe up or down to keep viewing new recommendat
 
 ![Screen Shot 2021-08-16 at 9 59 19 PM](https://user-images.githubusercontent.com/44535434/129652179-bff8e696-9aeb-49b2-aaab-c271c94f8796.png)
 
-#### Messaging
+### Messaging
 ![Screen Shot 2021-08-16 at 10 03 02 PM](https://user-images.githubusercontent.com/44535434/129652292-d9d67e0f-bde4-4d80-8367-c64f3507142c.png)
+
 The user can swipe left to view their conversations. The user can only message the following:
 - Users that have a Crush on user (Secret Crush included)
 - Users that the user has a Crush on (Secret Crush included)
@@ -33,10 +34,10 @@ The user can swipe left to view their conversations. The user can only message t
 ![Screen Shot 2021-08-16 at 10 04 30 PM](https://user-images.githubusercontent.com/44535434/129652580-5173e4dc-0e68-40b5-8506-b12724e926ae.png)
 *Conversations with secretly crushed users in anonymous, i.e, all publically viewable credentials and the profile picture are hidden.* 
 
-#### Report and Block
+- #### Report and Block
 The user can choose to report another user (User 2) and add a description in the dialog box as to why they have chosen to report User 2. User can also block communication with User 2.
 
-#### Request to reveal identity
+- #### Request to reveal identity
 At any point, a user can request an anonymous user to reveal their identity. The anonymous user can choose not to do so. 
 
 
