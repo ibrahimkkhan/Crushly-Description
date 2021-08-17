@@ -1,8 +1,7 @@
 # Crushly-Description
 ### Note: The Source Code for this Mobile Application is private. Please email me at khan993@umd.edu to request access
 
-## User Experience 
-### Application Onboarding Task Flow
+- ## Application Onboarding Task Flow
 ![Screen Shot 2021-08-16 at 9 18 58 PM](https://user-images.githubusercontent.com/44535434/129648636-3e43f8ee-97b9-4f6e-a855-27a996e5d369.png)
 
 - **Splash Screen:** Crushly opens up to a Splash Screen with our logo. The app connect to the back end server while the splash screen is being displayed.
@@ -12,7 +11,7 @@
 ![Screen Shot 2021-08-16 at 10 04 30 PM](https://user-images.githubusercontent.com/44535434/129652777-137e7a5c-1e3c-4749-afef-ea2c18e1d046.png)
 
 
-### Landing Page
+- ## Landing Page
 ![Screen Shot 2021-08-16 at 9 31 05 PM](https://user-images.githubusercontent.com/44535434/129652869-158563c9-034d-4105-8276-533fb91b75f3.png)
 After successfully authenticating, the user is directed to Crushly's landing page. The landing page showcases the recommendations we have for you based on your school and interests. Additionally, the landing page has the following features:
 - **Crush:** Press the Crush button if you admire the recommended user profile. The recommended user will be notified of this action.
@@ -24,7 +23,7 @@ Finally, the user can choose to swipe up or down to keep viewing new recommendat
 
 ![Screen Shot 2021-08-16 at 9 59 19 PM](https://user-images.githubusercontent.com/44535434/129652179-bff8e696-9aeb-49b2-aaab-c271c94f8796.png)
 
-### Messaging
+- ## Messaging
 ![Screen Shot 2021-08-16 at 10 03 02 PM](https://user-images.githubusercontent.com/44535434/129652292-d9d67e0f-bde4-4d80-8367-c64f3507142c.png)
 
 The user can swipe left to view their conversations. The user can only message the following:
@@ -41,6 +40,6 @@ The user can choose to report another user (User 2) and add a description in the
 At any point, a user can request an anonymous user to reveal their identity. The anonymous user can choose not to do so. 
 
 
-### My profile
+- ## My profile
 The user can use this page to add or remove pictures from their profile as well as change permissible user credentials. The User can also view the profiles of all the users that have a Crush on the User. The user can also logout from accessing the settings page from this page.
 ![Screen Shot 2021-08-16 at 10 06 59 PM](https://user-images.githubusercontent.com/44535434/129652489-3ceedf44-1310-4719-bc31-ba443883a4ae.png)
