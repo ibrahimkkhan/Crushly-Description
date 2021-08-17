@@ -53,4 +53,5 @@ At any point, a user can request an anonymous user to reveal their identity. The
 
 ## My profile
 The user can use this page to add or remove pictures from their profile as well as change permissible user credentials. The User can also view the profiles of all the users that have a Crush on the User. The user can also logout from accessing the settings page from this page.
+
 ![Screen Shot 2021-08-16 at 10 06 59 PM](https://user-images.githubusercontent.com/44535434/129652489-3ceedf44-1310-4719-bc31-ba443883a4ae.png)
