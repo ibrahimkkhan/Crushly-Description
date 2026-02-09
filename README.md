@@ -1,8 +1,4 @@
 # Crushly-Description
-### Note: The Source Code for this Mobile Application is private. Please email me at khan993@umd.edu to request access
-
-
-
 
 ## Application Onboarding Task Flow
 ![Screen Shot 2021-08-16 at 9 18 58 PM](https://user-images.githubusercontent.com/44535434/129648636-3e43f8ee-97b9-4f6e-a855-27a996e5d369.png)
@@ -12,8 +8,6 @@
 - **Sign In:** The user is authenticated through this route.
 
 ![Screen Shot 2021-08-16 at 10 04 30 PM](https://user-images.githubusercontent.com/44535434/129652777-137e7a5c-1e3c-4749-afef-ea2c18e1d046.png)
-
-
 
 
 ## Landing Page
@@ -27,8 +21,6 @@ After successfully authenticating, the user is directed to Crushly's landing pag
 Finally, the user can choose to swipe up or down to keep viewing new recommendations or come back to the old ones.
 
 ![Screen Shot 2021-08-16 at 9 59 19 PM](https://user-images.githubusercontent.com/44535434/129652179-bff8e696-9aeb-49b2-aaab-c271c94f8796.png)
-
-
 
 
 ## Messaging
@@ -47,9 +39,6 @@ The user can choose to report another user (User 2) and add a description in the
 
 - #### Request to reveal identity
 At any point, a user can request an anonymous user to reveal their identity. The anonymous user can choose not to do so. 
-
-
-
 
 ## My profile
 The user can use this page to add or remove pictures from their profile as well as change permissible user credentials. The User can also view the profiles of all the users that have a Crush on the User. The user can also logout from accessing the settings page from this page.
